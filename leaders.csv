@@ -1,0 +1,492 @@
+generation,game,name,type,elite_or_champion,1,2,3,4,5,6
+1,Red,Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+1,Green,Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+1,Blue,Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+1,Yellow,Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+2,Gold,Brock,rock,n,Graveler,Rhyhorn,Omastar,Kabutops,Onix,NA
+2,Silver,Brock,rock,n,Graveler,Rhyhorn,Omastar,Kabutops,Onix,NA
+2,Crystal,Brock,rock,n,Graveler,Rhyhorn,Omastar,Kabutops,Onix,NA
+3,FireRed,Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+3,LeafGreen,Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+4,HeartGold,Brock,rock,n,Graveler,Rhyhorn,Omastar,Kabutops,Onix,NA
+4,SoulSilver,Brock,rock,n,Graveler,Rhyhorn,Omastar,Kabutops,Onix,NA
+7,"Let's Go, Pikachu!",Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+7,"Let's Go, Eevee!",Brock,rock,n,Geodude,Onix,NA,NA,NA,NA
+1,Red,Misty,water,n,Staryu,Starmie,NA,NA,NA,NA
+1,Green,Misty,water,n,Staryu,Starmie,NA,NA,NA,NA
+1,Blue,Misty,water,n,Staryu,Starmie,NA,NA,NA,NA
+1,Yellow,Misty,water,n,Staryu,Starmie,NA,NA,NA,NA
+2,Gold,Misty,water,n,Golduck,Quagsire,Lapras,Starmie,NA,NA
+2,Silver,Misty,water,n,Golduck,Quagsire,Lapras,Starmie,NA,NA
+2,Crystal,Misty,water,n,Golduck,Quagsire,Lapras,Starmie,NA,NA
+3,FireRed,Misty,water,n,Staryu,Starmie,NA,NA,NA,NA
+3,LeafGreen,Misty,water,n,Staryu,Starmie,NA,NA,NA,NA
+4,HeartGold,Misty,water,n,Golduck,Quagsire,Lapras,Starmie,NA,NA
+4,SoulSilver,Misty,water,n,Golduck,Quagsire,Lapras,Starmie,NA,NA
+7,"Let's Go, Pikachu!",Misty,water,n,Psyduck,Starmie,NA,NA,NA,NA
+7,"Let's Go, Eevee!",Misty,water,n,Psyduck,Starmie,NA,NA,NA,NA
+1,Red,Lt. Surge,electric,n,Voltorb,Pikachu,Raichu,NA,NA,NA
+1,Green,Lt. Surge,electric,n,Voltorb,Pikachu,Raichu,NA,NA,NA
+1,Blue,Lt. Surge,electric,n,Voltorb,Pikachu,Raichu,NA,NA,NA
+1,Yellow,Lt. Surge,electric,n,Voltorb,Pikachu,Raichu,NA,NA,NA
+2,Gold,Lt. Surge,electric,n,Raichu,Electrode,Electrode,Magneton,Electabuzz,NA
+2,Silver,Lt. Surge,electric,n,Raichu,Electrode,Electrode,Magneton,Electabuzz,NA
+2,Crystal,Lt. Surge,electric,n,Raichu,Electrode,Electrode,Magneton,Electabuzz,NA
+3,FireRed,Lt. Surge,electric,n,Voltorb,Pikachu,Raichu,NA,NA,NA
+3,LeafGreen,Lt. Surge,electric,n,Voltorb,Pikachu,Raichu,NA,NA,NA
+4,HeartGold,Lt. Surge,electric,n,Raichu,Electrode,Electrode,Magneton,Electabuzz,NA
+4,SoulSilver,Lt. Surge,electric,n,Raichu,Electrode,Electrode,Magneton,Electabuzz,NA
+7,"Let's Go, Pikachu!",Lt. Surge,electric,n,Voltorb,Magnemite,Raichu,NA,NA,NA
+7,"Let's Go, Eevee!",Lt. Surge,electric,n,Voltorb,Magnemite,Raichu,NA,NA,NA
+1,Red,Erika,grass,n,Victreebel,Tangela,Vileplume,NA,NA,NA
+1,Green,Erika,grass,n,Victreebel,Tangela,Vileplume,NA,NA,NA
+1,Blue,Erika,grass,n,Victreebel,Tangela,Vileplume,NA,NA,NA
+1,Yellow,Erika,grass,n,Tangela,Weepinbell,Gloom,NA,NA,NA
+2,Gold,Erika,grass,n,Tangela,Victreebel,Jumpluff,Bellossom,NA,NA
+2,Silver,Erika,grass,n,Tangela,Victreebel,Jumpluff,Bellossom,NA,NA
+2,Crystal,Erika,grass,n,Tangela,Victreebel,Jumpluff,Bellossom,NA,NA
+3,FireRed,Erika,grass,n,Victreebel,Tangela,Vileplume,NA,NA,NA
+3,LeafGreen,Erika,grass,n,Victreebel,Tangela,Vileplume,NA,NA,NA
+4,HeartGold,Erika,grass,n,Jumpluff,Tangela,Victreebel,Bellossom,NA,NA
+4,SoulSilver,Erika,grass,n,Jumpluff,Tangela,Victreebel,Bellossom,NA,NA
+7,"Let's Go, Pikachu!",Erika,grass,n,Tangela,Weepinbell,Vileplume,NA,NA,NA
+7,"Let's Go, Eevee!",Erika,grass,n,Tangela,Weepinbell,Vileplume,NA,NA,NA
+1,Red,Koga,poison,n,Koffing,Muk,Koffing,Weezing,NA,NA
+1,Green,Koga,poison,n,Koffing,Muk,Koffing,Weezing,NA,NA
+1,Blue,Koga,poison,n,Koffing,Muk,Koffing,Weezing,NA,NA
+1,Yellow,Koga,poison,n,Venonat,Venonat,Venonat,Venomoth,NA,NA
+2,Gold,Koga,poison,y,Ariados,Venomoth,Forretress,Muk,Crobat,NA
+2,Silver,Koga,poison,y,Ariados,Venomoth,Forretress,Muk,Crobat,NA
+2,Crystal,Koga,poison,y,Ariados,Venomoth,Forretress,Muk,Crobat,NA
+3,FireRed,Koga,poison,n,Koffing,Muk,Koffing,Weezing,NA,NA
+3,LeafGreen,Koga,poison,n,Koffing,Muk,Koffing,Weezing,NA,NA
+4,HeartGold,Koga,poison,y,Ariados,Venomoth,Forretress,Muk,Crobat,NA
+4,SoulSilver,Koga,poison,y,Ariados,Venomoth,Forretress,Muk,Crobat,NA
+7,"Let's Go, Pikachu!",Koga,poison,n,Koffing,Muk,Golbat,Venomoth,NA,NA
+7,"Let's Go, Eevee!",Koga,poison,n,Koffing,Muk,Golbat,Venomoth,NA,NA
+2,Gold,Janine,poison,n,Crobat,Weezing,Weezing,Ariados,Venomoth,NA
+2,Silver,Janine,poison,n,Crobat,Weezing,Weezing,Ariados,Venomoth,NA
+2,Crystal,Janine,poison,n,Crobat,Weezing,Weezing,Ariados,Venomoth,NA
+4,HeartGold,Janine,poison,n,Crobat,Weezing,Ariados,Ariados,Venomoth,NA
+4,SoulSilver,Janine,poison,n,Crobat,Weezing,Ariados,Ariados,Venomoth,NA
+1,Red,Sabrina,psychic,n,Kadabra,Mr. Mime,Venomoth,Alakazam,NA,NA
+1,Green,Sabrina,psychic,n,Kadabra,Mr. Mime,Venomoth,Alakazam,NA,NA
+1,Blue,Sabrina,psychic,n,Kadabra,Mr. Mime,Venomoth,Alakazam,NA,NA
+1,Yellow,Sabrina,psychic,n,Abra,Kadabra,Alakazam,NA,NA,NA
+2,Gold,Sabrina,psychic,n,Espeon,Mr. Mime,Alakazam,NA,NA,NA
+2,Silver,Sabrina,psychic,n,Espeon,Mr. Mime,Alakazam,NA,NA,NA
+2,Crystal,Sabrina,psychic,n,Espeon,Mr. Mime,Alakazam,NA,NA,NA
+3,FireRed,Sabrina,psychic,n,Kadabra,Mr. Mime,Venomoth,Alakazam,NA,NA
+3,LeafGreen,Sabrina,psychic,n,Kadabra,Mr. Mime,Venomoth,Alakazam,NA,NA
+4,HeartGold,Sabrina,psychic,n,Espeon,Mr. Mime,Alakazam,NA,NA,NA
+4,SoulSilver,Sabrina,psychic,n,Espeon,Mr. Mime,Alakazam,NA,NA,NA
+7,"Let's Go, Pikachu!",Sabrina,psychic,n,Mr. Mime,Slowbro,Jynx,Alakazam,NA,NA
+7,"Let's Go, Eevee!",Sabrina,psychic,n,Mr. Mime,Slowbro,Jynx,Alakazam,NA,NA
+1,Red,Blaine,fire,n,Growlithe,Ponyta,Rapidash,Arcanine,NA,NA
+1,Green,Blaine,fire,n,Growlithe,Ponyta,Rapidash,Arcanine,NA,NA
+1,Blue,Blaine,fire,n,Growlithe,Ponyta,Rapidash,Arcanine,NA,NA
+1,Yellow,Blaine,fire,n,Ninetales,Rapidash,Arcanine,NA,NA,NA
+2,Gold,Blaine,fire,n,Magcargo,Magmar,Rapidash,NA,NA,NA
+2,Silver,Blaine,fire,n,Magcargo,Magmar,Rapidash,NA,NA,NA
+2,Crystal,Blaine,fire,n,Magcargo,Magmar,Rapidash,NA,NA,NA
+3,FireRed,Blaine,fire,n,Growlithe,Ponyta,Rapidash,Arcanine,NA,NA
+3,LeafGreen,Blaine,fire,n,Growlithe,Ponyta,Rapidash,Arcanine,NA,NA
+4,HeartGold,Blaine,fire,n,Magcargo,Magmar,Rapidash,NA,NA,NA
+4,SoulSilver,Blaine,fire,n,Magcargo,Magmar,Rapidash,NA,NA,NA
+7,"Let's Go, Pikachu!",Blaine,fire,n,Magmar,Rapidash,Ninetales,Arcanine,NA,NA
+7,"Let's Go, Eevee!",Blaine,fire,n,Magmar,Rapidash,Ninetales,Arcanine,NA,NA
+1,Red,Giovanni,ground,n,Rhyhorn,Dugtrio,Nidoqueen,Nidoking,Rhydon,NA
+1,Green,Giovanni,ground,n,Rhyhorn,Dugtrio,Nidoqueen,Nidoking,Rhydon,NA
+1,Blue,Giovanni,ground,n,Rhyhorn,Dugtrio,Nidoqueen,Nidoking,Rhydon,NA
+1,Yellow,Giovanni,ground,n,Dugtrio,Persian,Nidoqueen,Nidoking,Rhydon,NA
+3,FireRed,Giovanni,ground,n,Rhyhorn,Dugtrio,Nidoqueen,Nidoking,Rhydon,NA
+3,LeafGreen,Giovanni,ground,n,Rhyhorn,Dugtrio,Nidoqueen,Nidoking,Rhydon,NA
+7,"Let's Go, Pikachu!",Giovanni,ground,n,Dugtrio,Nidoqueen,Nidoking,Rhydon,NA,NA
+7,"Let's Go, Eevee!",Giovanni,ground,n,Dugtrio,Nidoqueen,Nidoking,Rhydon,NA,NA
+1,Red,Blue (fire),various,y,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Charizard
+1,Green,Blue (fire),various,y,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Charizard
+1,Blue,Blue (fire),various,y,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Charizard
+1,Red,Blue (water),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Exeggutor,Blastoise
+1,Green,Blue (water),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Exeggutor,Blastoise
+1,Blue,Blue (water),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Exeggutor,Blastoise
+1,Red,Blue (grass),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Gyarados,Venusaur
+1,Green,Blue (grass),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Gyarados,Venusaur
+1,Blue,Blue (grass),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Gyarados,Venusaur
+1,Yellow,Blue (water),various,y,Sandslash,Alakazam,Exeggutor,Ninetales,Magneton,Vaporeon
+1,Yellow,Blue (electric),various,y,Sandslash,Alakazam,Exeggutor,Ninetales,Cloyster,Jolteon
+1,Yellow,Blue (fire),various,y,Sandslash,Alakazam,Exeggutor,Cloyster,Magneton,Flareon
+2,Gold,Blue,various,n,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Arcanine
+2,Silver,Blue,various,n,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Arcanine
+2,Crystal,Blue,various,n,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Arcanine
+3,FireRed,Blue (fire),various,y,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Charizard
+3,FireRed,Blue (water),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Exeggutor,Blastoise
+3,FireRed,Blue (grass),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Gyarados,Venusaur
+3,LeafGreen,Blue (fire),various,y,Pidgeot,Alakazam,Rhydon,Exeggutor,Gyarados,Charizard
+3,LeafGreen,Blue (water),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Exeggutor,Blastoise
+3,LeafGreen,Blue (grass),various,y,Pidgeot,Alakazam,Rhydon,Arcanine,Gyarados,Venusaur
+4,HeartGold,Blue,various,n,Pidgeot,Machamp,Rhydon,Arcanine,Gyarados,Exeggutor
+4,SoulSilver,Blue,various,n,Pidgeot,Machamp,Rhydon,Arcanine,Gyarados,Exeggutor
+7,"Let's Go, Pikachu!",Blue,various,n,Tauros,Alakazam,Gyarados,Exeggutor,Aerodactyl,Charizard
+7,"Let's Go, Eevee!",Blue,various,n,Tauros,Alakazam,Gyarados,Exeggutor,Aerodactyl,Charizard
+1,Red,Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+1,Green,Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+1,Blue,Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+1,Yellow,Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+2,Gold,Will,psychic,y,Xatu,Exeggutor,Slowbro,Jynx,Xatu,NA
+2,Silver,Will,psychic,y,Xatu,Exeggutor,Slowbro,Jynx,Xatu,NA
+2,Crystal,Will,psychic,y,Xatu,Exeggutor,Slowbro,Jynx,Xatu,NA
+3,FireRed,Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+3,LeafGreen,Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+4,HeartGold,Will,psychic,y,Xatu,Exeggutor,Slowbro,Jynx,Xatu,NA
+4,SoulSilver,Will,psychic,y,Xatu,Exeggutor,Slowbro,Jynx,Xatu,NA
+7,"Let's Go, Pikachu!",Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+7,"Let's Go, Eevee!",Lorelei,ice,y,Dewgong,Cloyster,Slowbro,Jynx,Lapras,NA
+1,Red,Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+1,Green,Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+1,Blue,Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+1,Yellow,Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+2,Gold,Bruno,fighting,y,Hitmontop,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+2,Silver,Bruno,fighting,y,Hitmontop,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+2,Crystal,Bruno,fighting,y,Hitmontop,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+3,FireRed,Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+3,LeafGreen,Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+4,HeartGold,Bruno,fighting,y,Hitmontop,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+4,SoulSilver,Bruno,fighting,y,Hitmontop,Hitmonchan,Hitmonlee,Onix,Machamp,NA
+7,"Let's Go, Pikachu!",Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Poliwrath,Machamp,NA
+7,"Let's Go, Eevee!",Bruno,fighting,y,Onix,Hitmonchan,Hitmonlee,Poliwrath,Machamp,NA
+1,Red,Agatha,ghost,y,Gengar,Golbat,Haunter,Arbok,Gengar,NA
+1,Green,Agatha,ghost,y,Gengar,Golbat,Haunter,Arbok,Gengar,NA
+1,Blue,Agatha,ghost,y,Gengar,Golbat,Haunter,Arbok,Gengar,NA
+1,Yellow,Agatha,ghost,y,Gengar,Golbat,Haunter,Arbok,Gengar,NA
+3,FireRed,Agatha,ghost,y,Gengar,Golbat,Haunter,Arbok,Gengar,NA
+3,LeafGreen,Agatha,ghost,y,Gengar,Golbat,Haunter,Arbok,Gengar,NA
+7,"Let's Go, Pikachu!",Agatha,ghost,y,Gengar,Golbat,Weezing,Arbok,Gengar,NA
+7,"Let's Go, Eevee!",Agatha,ghost,y,Gengar,Golbat,Weezing,Arbok,Gengar,NA
+1,Red,Lance,dragon,y,Gyarados,Dragonair,Dragonair,Aerodactyl,Dragonite,NA
+1,Green,Lance,dragon,y,Gyarados,Dragonair,Dragonair,Aerodactyl,Dragonite,NA
+1,Blue,Lance,dragon,y,Gyarados,Dragonair,Dragonair,Aerodactyl,Dragonite,NA
+1,Yellow,Lance,dragon,y,Gyarados,Dragonair,Dragonair,Aerodactyl,Dragonite,NA
+2,Gold,Lance,dragon,y,Gyarados,Dragonite,Charizard,Aerodactyl,Dragonite,Dragonite
+2,Silver,Lance,dragon,y,Gyarados,Dragonite,Charizard,Aerodactyl,Dragonite,Dragonite
+2,Crystal,Lance,dragon,y,Gyarados,Dragonite,Charizard,Aerodactyl,Dragonite,Dragonite
+3,FireRed,Lance,dragon,y,Gyarados,Dragonair,Dragonair,Aerodactyl,Dragonite,NA
+3,LeafGreen,Lance,dragon,y,Gyarados,Dragonair,Dragonair,Aerodactyl,Dragonite,NA
+4,HeartGold,Lance,dragon,y,Gyarados,Dragonite,Charizard,Aerodactyl,Dragonite,Dragonite
+4,SoulSilver,Lance,dragon,y,Gyarados,Dragonite,Charizard,Aerodactyl,Dragonite,Dragonite
+7,"Let's Go, Pikachu!",Lance,dragon,y,Seadra,Aerodactyl,Gyarados,Charizard,Dragonite,NA
+7,"Let's Go, Eevee!",Lance,dragon,y,Seadra,Aerodactyl,Gyarados,Charizard,Dragonite,NA
+2,Gold,Karen,dark,y,Umbreon,Vileplume,Murkrow,Gengar,Houndoom,NA
+2,Silver,Karen,dark,y,Umbreon,Vileplume,Murkrow,Gengar,Houndoom,NA
+2,Crystal,Karen,dark,y,Umbreon,Vileplume,Murkrow,Gengar,Houndoom,NA
+4,HeartGold,Karen,dark,y,Umbreon,Vileplume,Murkrow,Gengar,Houndoom,NA
+4,SoulSilver,Karen,dark,y,Umbreon,Vileplume,Murkrow,Gengar,Houndoom,NA
+7,"Let's Go, Pikachu!",Trace,various,y,Pidgeot,Vileplume,Marowak,Rapidash,Slowbro,Jolteon
+7,"Let's Go, Eevee!",Trace,various,y,Pidgeot,Vileplume,Marowak,Rapidash,Slowbro,Raichu
+2,Gold,Falkner,flying,n,Pidgey,Pidgeoto,NA,NA,NA,NA
+2,Silver,Falkner,flying,n,Pidgey,Pidgeoto,NA,NA,NA,NA
+2,Crystal,Falkner,flying,n,Pidgey,Pidgeoto,NA,NA,NA,NA
+4,HeartGold,Falkner,flying,n,Pidgey,Pidgeoto,NA,NA,NA,NA
+4,SoulSilver,Falkner,flying,n,Pidgey,Pidgeoto,NA,NA,NA,NA
+2,Gold,Bugsy,bug,n,Metapod,Kakuna,Scyther,NA,NA,NA
+2,Silver,Bugsy,bug,n,Metapod,Kakuna,Scyther,NA,NA,NA
+2,Crystal,Bugsy,bug,n,Metapod,Kakuna,Scyther,NA,NA,NA
+4,HeartGold,Bugsy,bug,n,Metapod,Kakuna,Scyther,NA,NA,NA
+4,SoulSilver,Bugsy,bug,n,Metapod,Kakuna,Scyther,NA,NA,NA
+2,Gold,Whitney,normal,n,Clefairy,Miltank,NA,NA,NA,NA
+2,Silver,Whitney,normal,n,Clefairy,Miltank,NA,NA,NA,NA
+2,Crystal,Whitney,normal,n,Clefairy,Miltank,NA,NA,NA,NA
+4,HeartGold,Whitney,normal,n,Clefairy,Miltank,NA,NA,NA,NA
+4,SoulSilver,Whitney,normal,n,Clefairy,Miltank,NA,NA,NA,NA
+2,Gold,Morty,ghost,n,Gastly,Haunter,Gengar,Haunter,NA,NA
+2,Silver,Morty,ghost,n,Gastly,Haunter,Gengar,Haunter,NA,NA
+2,Crystal,Morty,ghost,n,Gastly,Haunter,Gengar,Haunter,NA,NA
+4,HeartGold,Morty,ghost,n,Gastly,Haunter,Gengar,Haunter,NA,NA
+4,SoulSilver,Morty,ghost,n,Gastly,Haunter,Gengar,Haunter,NA,NA
+2,Gold,Chuck,fighting,n,Primeape,Poliwrath,NA,NA,NA,NA
+2,Silver,Chuck,fighting,n,Primeape,Poliwrath,NA,NA,NA,NA
+2,Crystal,Chuck,fighting,n,Primeape,Poliwrath,NA,NA,NA,NA
+4,HeartGold,Chuck,fighting,n,Primeape,Poliwrath,NA,NA,NA,NA
+4,SoulSilver,Chuck,fighting,n,Primeape,Poliwrath,NA,NA,NA,NA
+2,Gold,Jasmine,steel,n,Magnemite,Magnemite,Steelix,NA,NA,NA
+2,Silver,Jasmine,steel,n,Magnemite,Magnemite,Steelix,NA,NA,NA
+2,Crystal,Jasmine,steel,n,Magnemite,Magnemite,Steelix,NA,NA,NA
+4,HeartGold,Jasmine,steel,n,Magnemite,Magnemite,Steelix,NA,NA,NA
+4,SoulSilver,Jasmine,steel,n,Magnemite,Magnemite,Steelix,NA,NA,NA
+2,Gold,Pryce,ice,n,Seel,Dewgong,Piloswine,NA,NA,NA
+2,Silver,Pryce,ice,n,Seel,Dewgong,Piloswine,NA,NA,NA
+2,Crystal,Pryce,ice,n,Seel,Dewgong,Piloswine,NA,NA,NA
+4,HeartGold,Pryce,ice,n,Seel,Dewgong,Piloswine,NA,NA,NA
+4,SoulSilver,Pryce,ice,n,Seel,Dewgong,Piloswine,NA,NA,NA
+2,Gold,Clair,dragon,n,Dragonair,Dragonair,Dragonair,Kingdra,NA,NA
+2,Silver,Clair,dragon,n,Dragonair,Dragonair,Dragonair,Kingdra,NA,NA
+2,Crystal,Clair,dragon,n,Dragonair,Dragonair,Dragonair,Kingdra,NA,NA
+4,HeartGold,Clair,dragon,n,Dragonair,Dragonair,Gyarados,Kingdra,NA,NA
+4,SoulSilver,Clair,dragon,n,Dragonair,Dragonair,Gyarados,Kingdra,NA,NA
+3,Ruby,Roxanne,rock,n,Geodude,Nosepass,NA,NA,NA,NA
+3,Sapphire,Roxanne,rock,n,Geodude,Nosepass,NA,NA,NA,NA
+3,Emerald,Roxanne,rock,n,Geodude,Geodude,Nosepass,NA,NA,NA
+6,OmegaRuby,Roxanne,rock,n,Geodude,Nosepass,NA,NA,NA,NA
+6,AlphaSapphire,Roxanne,rock,n,Geodude,Nosepass,NA,NA,NA,NA
+3,Ruby,Brawly,fighting,n,Machop,Makuhita,NA,NA,NA,NA
+3,Sapphire,Brawly,fighting,n,Machop,Makuhita,NA,NA,NA,NA
+3,Emerald,Brawly,fighting,n,Machop,Meditite,Makuhita,NA,NA,NA
+6,OmegaRuby,Brawly,fighting,n,Machop,Makuhita,NA,NA,NA,NA
+6,AlphaSapphire,Brawly,fighting,n,Machop,Makuhita,NA,NA,NA,NA
+3,Ruby,Wattson,electric,n,Magnemite,Voltorb,Magneton,NA,NA,NA
+3,Sapphire,Wattson,electric,n,Magnemite,Voltorb,Magneton,NA,NA,NA
+3,Emerald,Wattson,electric,n,Voltorb,Electrike,Magneton,Manectric,NA,NA
+6,OmegaRuby,Wattson,electric,n,Magnemite,Voltorb,Magneton,NA,NA,NA
+6,AlphaSapphire,Wattson,electric,n,Magnemite,Voltorb,Magneton,NA,NA,NA
+3,Ruby,Flannery,fire,n,Slugma,Slugma,Torkoal,NA,NA,NA
+3,Sapphire,Flannery,fire,n,Slugma,Slugma,Torkoal,NA,NA,NA
+3,Emerald,Flannery,fire,n,Numel,Slugma,Camerupt,Torkoal,NA,NA
+6,OmegaRuby,Flannery,fire,n,Slugma,Slugma,Torkoal,NA,NA,NA
+6,AlphaSapphire,Flannery,fire,n,Slugma,Slugma,Torkoal,NA,NA,NA
+3,Ruby,Norman,normal,n,Slaking,Vigoroth,Slaking,NA,NA,NA
+3,Sapphire,Norman,normal,n,Slaking,Vigoroth,Slaking,NA,NA,NA
+3,Emerald,Norman,normal,n,Spinda,Vigoroth,Linoone,Slaking,NA,NA
+6,OmegaRuby,Norman,normal,n,Slaking,Vigoroth,Slaking,NA,NA,NA
+6,AlphaSapphire,Norman,normal,n,Slaking,Vigoroth,Slaking,NA,NA,NA
+3,Ruby,Winona,flying,n,Swellow,Pelipper,Skarmory,Altaria,NA,NA
+3,Sapphire,Winona,flying,n,Swellow,Pelipper,Skarmory,Altaria,NA,NA
+3,Emerald,Winona,flying,n,Swablu,Tropius,Pelipper,Skarmory,Altaria,NA
+6,OmegaRuby,Winona,flying,n,Swellow,Pelipper,Skarmory,Altaria,NA,NA
+6,AlphaSapphire,Winona,flying,n,Swellow,Pelipper,Skarmory,Altaria,NA,NA
+3,Ruby,Tate and Liza,psychic,n,Lunatone,Solrock,NA,NA,NA,NA
+3,Sapphire,Tate and Liza,psychic,n,Lunatone,Solrock,NA,NA,NA,NA
+3,Emerald,Tate and Liza,psychic,n,Claydol,Xatu,Lunatone,Solrock,NA,NA
+6,OmegaRuby,Tate and Liza,psychic,n,Lunatone,Solrock,NA,NA,NA,NA
+6,AlphaSapphire,Tate and Liza,psychic,n,Lunatone,Solrock,NA,NA,NA,NA
+3,Ruby,Wallace,water,n,Luvdisc,Sealeo,Seaking,Whiscash,Milotic,NA
+3,Sapphire,Wallace,water,n,Luvdisc,Sealeo,Seaking,Whiscash,Milotic,NA
+3,Emerald,Juan,water,n,Luvdisc,Whiscash,Sealeo,Crawdaunt,Kingdra,NA
+6,OmegaRuby,Wallace,water,n,Luvdisc,Sealeo,Seaking,Whiscash,Milotic,NA
+6,AlphaSapphire,Wallace,water,n,Luvdisc,Sealeo,Seaking,Whiscash,Milotic,NA
+3,Ruby,Sidney,dark,y,Mightyena,Cacturne,Shiftry,Sharpedo,Absol,NA
+3,Sapphire,Sidney,dark,y,Mightyena,Cacturne,Shiftry,Sharpedo,Absol,NA
+3,Emerald,Sidney,dark,y,Mightyena,Cacturne,Shiftry,Crawdaunt,Absol,NA
+6,OmegaRuby,Sidney,dark,y,Mightyena,Cacturne,Shiftry,Sharpedo,Absol,NA
+6,AlphaSapphire,Sidney,dark,y,Mightyena,Cacturne,Shiftry,Sharpedo,Absol,NA
+3,Ruby,Phoebe,ghost,y,Dusclops,Banette,Banette,Sableye,Dusclops,NA
+3,Sapphire,Phoebe,ghost,y,Dusclops,Banette,Banette,Sableye,Dusclops,NA
+3,Emerald,Phoebe,ghost,y,Dusclops,Banette,Banette,Sableye,Dusclops,NA
+6,OmegaRuby,Phoebe,ghost,y,Dusclops,Banette,Banette,Sableye,Dusknoir,NA
+6,AlphaSapphire,Phoebe,ghost,y,Dusclops,Banette,Banette,Sableye,Dusknoir,NA
+3,Ruby,Glacia,ice,y,Glalie,Sealeo,Sealeo,Glalie,Walrein,NA
+3,Sapphire,Glacia,ice,y,Glalie,Sealeo,Sealeo,Glalie,Walrein,NA
+3,Emerald,Glacia,ice,y,Glalie,Sealeo,Sealeo,Glalie,Walrein,NA
+6,OmegaRuby,Glacia,ice,y,Glalie,Froslass,Froslass,Glalie,Walrein,NA
+6,AlphaSapphire,Glacia,ice,y,Glalie,Froslass,Froslass,Glalie,Walrein,NA
+3,Ruby,Drake,dragon,y,Shelgon,Altaria,Flygon,Flygon,Salamence,NA
+3,Sapphire,Drake,dragon,y,Shelgon,Altaria,Flygon,Flygon,Salamence,NA
+3,Emerald,Drake,dragon,y,Shelgon,Altaria,Kingdra,Flygon,Salamence,NA
+6,OmegaRuby,Drake,dragon,y,Kingdra,Altaria,Flygon,Flygon,Salamence,NA
+6,AlphaSapphire,Drake,dragon,y,Kingdra,Altaria,Flygon,Flygon,Salamence,NA
+3,Ruby,Steven,steel,y,Skarmory,Claydol,Aggron,Cradily,Armaldo,Metagross
+3,Sapphire,Steven,steel,y,Skarmory,Claydol,Aggron,Cradily,Armaldo,Metagross
+3,Emerald,Wallace,water,y,Wailord,Tentacruel,Ludicolo,Whiscash,Gyarados,Milotic
+6,OmegaRuby,Steven,steel,y,Skarmory,Claydol,Aggron,Cradily,Armaldo,Metagross
+6,AlphaSapphire,Steven,steel,y,Skarmory,Claydol,Aggron,Cradily,Armaldo,Metagross
+4,Diamond,Roark,rock,n,Geodude,Onix,Cranidos,NA,NA,NA
+4,Pearl,Roark,rock,n,Geodude,Onix,Cranidos,NA,NA,NA
+4,Platinum,Roark,rock,n,Geodude,Onix,Cranidos,NA,NA,NA
+4,Diamond,Gardenia,grass,n,Cherubi,Turtwig,Roserade,NA,NA,NA
+4,Pearl,Gardenia,grass,n,Cherubi,Turtwig,Roserade,NA,NA,NA
+4,Platinum,Gardenia,grass,n,Cherrim,Turtwig,Roserade,NA,NA,NA
+4,Diamond,Maylene,fighting,n,Meditite,Machoke,Lucario,NA,NA,NA
+4,Pearl,Maylene,fighting,n,Meditite,Machoke,Lucario,NA,NA,NA
+4,Platinum,Maylene,fighting,n,Meditite,Machoke,Lucario,NA,NA,NA
+4,Diamond,Crasher Wake,water,n,Gyarados,Quagsire,Floatzel,NA,NA,NA
+4,Pearl,Crasher Wake,water,n,Gyarados,Quagsire,Floatzel,NA,NA,NA
+4,Platinum,Crasher Wake,water,n,Gyarados,Quagsire,Floatzel,NA,NA,NA
+4,Diamond,Fantina,ghost,n,Drifblim,Gengar,Mismagius,NA,NA,NA
+4,Pearl,Fantina,ghost,n,Drifblim,Gengar,Mismagius,NA,NA,NA
+4,Platinum,Fantina,ghost,n,Duskull,Haunter,Mismagius,NA,NA,NA
+4,Diamond,Byron,steel,n,Bronzor,Steelix,Bastiodon,NA,NA,NA
+4,Pearl,Byron,steel,n,Bronzor,Steelix,Bastiodon,NA,NA,NA
+4,Platinum,Byron,steel,n,Magneton,Steelix,Bastiodon,NA,NA,NA
+4,Diamond,Candice,ice,n,Snover,Sneasel,Medicham,Abomasnow,NA,NA
+4,Pearl,Candice,ice,n,Snover,Sneasel,Medicham,Abomasnow,NA,NA
+4,Platinum,Candice,ice,n,Sneasel,Piloswine,Abomasnow,Froslass,NA,NA
+4,Diamond,Volkner,electric,n,Raichu,Ambipom,Octillery,Luxray,NA,NA
+4,Pearl,Volkner,electric,n,Raichu,Ambipom,Octillery,Luxray,NA,NA
+4,Platinum,Volkner,electric,n,Jolteon,Raichu,Luxray,Electivire,NA,NA
+4,Diamond,Aaron,bug,y,Dustox,Beautifly,Vespiquen,Heracross,Drapion,NA
+4,Pearl,Aaron,bug,y,Dustox,Beautifly,Vespiquen,Heracross,Drapion,NA
+4,Platinum,Aaron,bug,y,Yanmega,Scizor,Heracross,Vespiquen,Drapion,NA
+4,Diamond,Bertha,ground,y,Quagsire,Sudowoodo,Golem,Whiscash,Hippowdon,NA
+4,Pearl,Bertha,ground,y,Quagsire,Sudowoodo,Golem,Whiscash,Hippowdon,NA
+4,Platinum,Bertha,ground,y,Whiscash,Gliscor,Hippowdon,Golem,Rhyperior,NA
+4,Diamond,Flint,fire,y,Rapidash,Steelix,Drifblim,Lopunny,Infernape,NA
+4,Pearl,Flint,fire,y,Rapidash,Steelix,Drifblim,Lopunny,Infernape,NA
+4,Platinum,Flint,fire,y,Houndoom,Flareon,Rapidash,Infernape,Magmortar,NA
+4,Diamond,Lucian,psychic,y,Mr. Mime,Girafarig,Medicham,Alakazam,Bronzong,NA
+4,Pearl,Lucian,psychic,y,Mr. Mime,Girafarig,Medicham,Alakazam,Bronzong,NA
+4,Platinum,Lucian,psychic,y,Mr. Mime,Espeon,Bronzong,Alakazam,Gallade,NA
+4,Diamond,Cynthia,various,y,Spiritomb,Roserade,Gastrodon,Lucario,Milotic,Garchomp
+4,Pearl,Cynthia,various,y,Spiritomb,Roserade,Gastrodon,Lucario,Milotic,Garchomp
+4,Platinum,Cynthia,various,y,Spiritomb,Roserade,Togekiss,Lucario,Milotic,Garchomp
+5,Black,Cilan (grass),grass,n,Lillipup,Pansage,NA,NA,NA,NA
+5,Black,Chili (fire),fire,n,Lillipup,Pansear,NA,NA,NA,NA
+5,Black,Cress (water),water,n,Lillipup,Panpour,NA,NA,NA,NA
+5,White,Cilan (grass),grass,n,Lillipup,Pansage,NA,NA,NA,NA
+5,White,Chili (fire),fire,n,Lillipup,Pansear,NA,NA,NA,NA
+5,White,Cress (water),water,n,Lillipup,Panpour,NA,NA,NA,NA
+5,Black 2,Cheren,normal,n,Patrat,Lillipup,NA,NA,NA,NA
+5,White 2,Cheren,normal,n,Patrat,Lillipup,NA,NA,NA,NA
+5,Black,Lenora,normal,n,Herdier,Watchog,NA,NA,NA,NA
+5,White,Lenora,normal,n,Herdier,Watchog,NA,NA,NA,NA
+5,Black 2,Roxie,poison,n,Koffing,Whirlipede,NA,NA,NA,NA
+5,White 2,Roxie,poison,n,Koffing,Whirlipede,NA,NA,NA,NA
+5,Black,Burgh,bug,n,Whirlipede,Dwebble,Leavanny,NA,NA,NA
+5,White,Burgh,bug,n,Whirlipede,Dwebble,Leavanny,NA,NA,NA
+5,Black 2,Burgh,bug,n,Swadloon,Dwebble,Leavanny,NA,NA,NA
+5,White 2,Burgh,bug,n,Swadloon,Dwebble,Leavanny,NA,NA,NA
+5,Black,Elesa,electric,n,Emolga,Emolga,Zebstrika,NA,NA,NA
+5,White,Elesa,electric,n,Emolga,Emolga,Zebstrika,NA,NA,NA
+5,Black 2,Elesa,electric,n,Emolga,Flaaffy,Zebstrika,NA,NA,NA
+5,White 2,Elesa,electric,n,Emolga,Flaaffy,Zebstrika,NA,NA,NA
+5,Black,Clay,ground,n,Krokorok,Palpitoad,Excadrill,NA,NA,NA
+5,White,Clay,ground,n,Krokorok,Palpitoad,Excadrill,NA,NA,NA
+5,Black 2,Clay,ground,n,Krokorok,Sandslash,Excadrill,NA,NA,NA
+5,White 2,Clay,ground,n,Krokorok,Sandslash,Excadrill,NA,NA,NA
+5,Black,Skyla,flying,n,Swoobat,Unfezant,Swanna,NA,NA,NA
+5,White,Skyla,flying,n,Swoobat,Unfezant,Swanna,NA,NA,NA
+5,Black 2,Skyla,flying,n,Swoobat,Skarmory,Swanna,NA,NA,NA
+5,White 2,Skyla,flying,n,Swoobat,Skarmory,Swanna,NA,NA,NA
+5,Black,Brycen,ice,n,Vanillish,Cryogonal,Beartic,NA,NA,NA
+5,White,Brycen,ice,n,Vanillish,Cryogonal,Beartic,NA,NA,NA
+5,Black 2,Drayden,dragon,n,Flygon,Druddigon,Haxorus,NA,NA,NA
+5,White 2,Drayden,dragon,n,Flygon,Druddigon,Haxorus,NA,NA,NA
+5,Black,Drayden,dragon,n,Fraxure,Druddigon,Haxorus,NA,NA,NA
+5,White,Iris,dragon,n,Fraxure,Druddigon,Haxorus,NA,NA,NA
+5,Black 2,Marlon,water,n,Carracosta,Wailord,Jellicent,NA,NA,NA
+5,White 2,Marlon,water,n,Carracosta,Wailord,Jellicent,NA,NA,NA
+5,Black,Shauntal,ghost,y,Cofagrigus,Jellicent,Golurk,Chandelure,NA,NA
+5,White,Shauntal,ghost,y,Cofagrigus,Jellicent,Golurk,Chandelure,NA,NA
+5,Black 2,Shauntal,ghost,y,Cofagrigus,Drifblim,Golurk,Chandelure,NA,NA
+5,White 2,Shauntal,ghost,y,Cofagrigus,Drifblim,Golurk,Chandelure,NA,NA
+5,Black,Marshal,fighting,y,Throh,Sawk,Conkeldurr,Mienshao,NA,NA
+5,White,Marshal,fighting,y,Throh,Sawk,Conkeldurr,Mienshao,NA,NA
+5,Black 2,Marshal,fighting,y,Throh,Sawk,Conkeldurr,Mienshao,NA,NA
+5,White 2,Marshal,fighting,y,Throh,Sawk,Conkeldurr,Mienshao,NA,NA
+5,Black,Grimsley,dark,y,Scrafty,Krookodile,Liepard,Bisharp,NA,NA
+5,White,Grimsley,dark,y,Scrafty,Krookodile,Liepard,Bisharp,NA,NA
+5,Black 2,Grimsley,dark,y,Scrafty,Krookodile,Liepard,Bisharp,NA,NA
+5,White 2,Grimsley,dark,y,Scrafty,Krookodile,Liepard,Bisharp,NA,NA
+5,Black,Caitlin,psychic,y,Reuniclus,Musharna,Sigilyph,Gothitelle,NA,NA
+5,White,Caitlin,psychic,y,Reuniclus,Musharna,Sigilyph,Gothitelle,NA,NA
+5,Black 2,Caitlin,psychic,y,Reuniclus,Musharna,Sigilyph,Gothitelle,NA,NA
+5,White 2,Caitlin,psychic,y,Reuniclus,Musharna,Sigilyph,Gothitelle,NA,NA
+5,Black,Alder,various,y,Accelgor,Bouffalant,Druddigon,Vanilluxe,Escavalier,Volcarona
+5,White,Alder,various,y,Accelgor,Bouffalant,Druddigon,Vanilluxe,Escavalier,Volcarona
+5,Black 2,Iris,dragon,y,Hydreigon,Druddigon,Archeops,Aggron,Lapras,Haxorus
+5,White 2,Iris,dragon,y,Hydreigon,Druddigon,Archeops,Aggron,Lapras,Haxorus
+6,X,Viola,bug,n,Surskit,Vivillon,NA,NA,NA,NA
+6,Y,Viola,bug,n,Surskit,Vivillon,NA,NA,NA,NA
+6,X,Grant,rock,n,Amaura,Tyrunt,NA,NA,NA,NA
+6,Y,Grant,rock,n,Amaura,Tyrunt,NA,NA,NA,NA
+6,X,Korrina,fighting,n,Lucario,Lucario,NA,NA,NA,NA
+6,Y,Korrina,fighting,n,Lucario,Lucario,NA,NA,NA,NA
+6,X,Ramos,grass,n,Jumpluff,Weepinbell,Gogoat,NA,NA,NA
+6,Y,Ramos,grass,n,Jumpluff,Weepinbell,Gogoat,NA,NA,NA
+6,X,Clemont,electric,n,Emolga,Magneton,Heliolisk,NA,NA,NA
+6,Y,Clemont,electric,n,Emolga,Magneton,Heliolisk,NA,NA,NA
+6,X,Valerie,fairy,n,Mawile,Mr. Mime,Sylveon,NA,NA,NA
+6,Y,Valerie,fairy,n,Mawile,Mr. Mime,Sylveon,NA,NA,NA
+6,X,Olympia,psychic,n,Sigilyph,Slowking,Meowstic,NA,NA,NA
+6,Y,Olympia,psychic,n,Sigilyph,Slowking,Meowstic,NA,NA,NA
+6,X,Wulfric,ice,n,Abomasnow,Cryogonal,Avalugg,NA,NA,NA
+6,Y,Wulfric,ice,n,Abomasnow,Cryogonal,Avalugg,NA,NA,NA
+6,X,Malva,fire,y,Pyroar,Torkoal,Chandelure,Talonflame,NA,NA
+6,Y,Malva,fire,y,Pyroar,Torkoal,Chandelure,Talonflame,NA,NA
+6,X,Siebold,water,y,Clawitzer,Gyarados,Starmie,Barbaracle,NA,NA
+6,Y,Siebold,water,y,Clawitzer,Gyarados,Starmie,Barbaracle,NA,NA
+6,X,Wikstrom,steel,y,Klefki,Probopass,Scisor,Aegislash,NA,NA
+6,Y,Wikstrom,steel,y,Klefki,Probopass,Scisor,Aegislash,NA,NA
+6,X,Drasna,dragon,y,Dragalge,Druddigon,Altaria,Noivern,NA,NA
+6,Y,Drasna,dragon,y,Dragalge,Druddigon,Altaria,Noivern,NA,NA
+6,X,Diantha,various,y,Hawlucha,Tyrantrum,Aurorus,Gourgeist,Goodra,Gardevoir
+6,Y,Diantha,various,y,Hawlucha,Tyrantrum,Aurorus,Gourgeist,Goodra,Gardevoir
+7,Sun,Hala,fighting,n,Mankey,Makuhita,Crabrawler,NA,NA,NA
+7,Moon,Hala,fighting,n,Mankey,Makuhita,Crabrawler,NA,NA,NA
+7,Ultra Sun,Hala,fighting,n,Machop,Makuhita,Crabrawler,NA,NA,NA
+7,Ultra Moon,Hala,fighting,n,Machop,Makuhita,Crabrawler,NA,NA,NA
+7,Sun,Olivia,rock,n,Nosepass,Boldore,Lycanroc,NA,NA,NA
+7,Moon,Olivia,rock,n,Nosepass,Boldore,Lycanroc,NA,NA,NA
+7,Ultra Sun,Olivia,rock,n,Anorith,Boldore,Lileep,NA,NA,NA
+7,Ultra Moon,Olivia,rock,n,Anorith,Boldore,Lileep,NA,NA,NA
+7,Sun,Nanu,dark,n,Sableye,Krokorok,Persian,NA,NA,NA
+7,Moon,Nanu,dark,n,Sableye,Krokorok,Persian,NA,NA,NA
+7,Ultra Sun,Nanu,dark,n,Sableye,Krokorok,Persian,NA,NA,NA
+7,Ultra Moon,Nanu,dark,n,Sableye,Krokorok,Persian,NA,NA,NA
+7,Sun,Hapu,ground,n,Dugtrio,Gastrodon,Flygon,Mudsdale,NA,NA
+7,Moon,Hapu,ground,n,Dugtrio,Gastrodon,Flygon,Mudsdale,NA,NA
+7,Ultra Sun,Hapu,ground,n,Golurk,Gastrodon,Flygon,Mudsdale,NA,NA
+7,Ultra Moon,Hapu,ground,n,Golurk,Gastrodon,Flygon,Mudsdale,NA,NA
+7,Sun,Hala,fighting,y,Hariyama,Primeape,Bewear,Poliwrath,Crabominable,NA
+7,Moon,Hala,fighting,y,Hariyama,Primeape,Bewear,Poliwrath,Crabominable,NA
+7,Ultra Sun,Molayne,steel,y,Klefki,Bisharp,Magnezone,Metagross,Dugtrio,NA
+7,Ultra Moon,Molayne,steel,y,Klefki,Bisharp,Magnezone,Metagross,Dugtrio,NA
+7,Sun,Olivia,rock,y,Relicanth,Carbink,Golem,Probopass,Lycanroc,NA
+7,Moon,Olivia,rock,y,Relicanth,Carbink,Golem,Probopass,Lycanroc,NA
+7,Ultra Sun,Olivia,rock,y,Armaldo,Cradily,Gigalith,Probopass,Lycanroc,NA
+7,Ultra Moon,Olivia,rock,y,Armaldo,Cradily,Gigalith,Probopass,Lycanroc,NA
+7,Sun,Acerola,ghost,y,Sableye,Drifblim,Dhelmise,Froslass,Palossand,NA
+7,Moon,Acerola,ghost,y,Sableye,Drifblim,Dhelmise,Froslass,Palossand,NA
+7,Ultra Sun,Acerola,ghost,y,Banette,Drifblim,Dhelmise,Froslass,Palossand,NA
+7,Ultra Moon,Acerola,ghost,y,Banette,Drifblim,Dhelmise,Froslass,Palossand,NA
+7,Sun,Kahili,flying,y,Skarmory,Crobat,Oricorio,Mandibuzz,Toucannon,NA
+7,Moon,Kahili,flying,y,Skarmory,Crobat,Oricorio,Mandibuzz,Toucannon,NA
+7,Ultra Sun,Kahili,flying,y,Braviary,Hawlucha,Oricorio,Mandibuzz,Toucannon,NA
+7,Ultra Moon,Kahili,flying,y,Braviary,Hawlucha,Oricorio,Mandibuzz,Toucannon,NA
+7,Sun,Professor Kukui (fire),various,y,Lycanroc,Ninetales,Braviary,Magnezone,Snorlax,Incineroar
+7,Moon,Professor Kukui (fire),various,y,Lycanroc,Ninetales,Braviary,Magnezone,Snorlax,Incineroar
+7,Sun,Professor Kukui (water),various,y,Lycanroc,Ninetales,Braviary,Magnezone,Snorlax,Primarina
+7,Moon,Professor Kukui (water),various,y,Lycanroc,Ninetales,Braviary,Magnezone,Snorlax,Primarina
+7,Sun,Professor Kukui (grass),various,y,Lycanroc,Ninetales,Braviary,Magnezone,Snorlax,Decidueye
+7,Moon,Professor Kukui (grass),various,y,Lycanroc,Ninetales,Braviary,Magnezone,Snorlax,Decidueye
+7,Ultra Sun,Hau (fire),various,y,Raichu,Flareon,Tauros,Noivern,Crabominable,Primarina
+7,Ultra Moon,Hau (fire),various,y,Raichu,Flareon,Tauros,Noivern,Crabominable,Primarina
+7,Ultra Sun,Hau (water),various,y,Raichu,Vaporeon,Tauros,Noivern,Crabominable,Decidueye
+7,Ultra Moon,Hau (water),various,y,Raichu,Vaporeon,Tauros,Noivern,Crabominable,Decidueye
+7,Ultra Sun,Hau (grass),various,y,Raichu,Leafeon,Tauros,Noivern,Crabominable,Incineroar
+7,Ultra Moon,Hau (grass),various,y,Raichu,Leafeon,Tauros,Noivern,Crabominable,Incineroar
+8,Sword,Milo,grass,n,Gossifleur,Eldegoss,NA,NA,NA,NA
+8,Shield,Milo,grass,n,Gossifleur,Eldegoss,NA,NA,NA,NA
+8,Sword,Nessa,water,n,Goldeen,Arrokuda,Drednaw,NA,NA,NA
+8,Shield,Nessa,water,n,Goldeen,Arrokuda,Drednaw,NA,NA,NA
+8,Sword,Kabu,fire,n,Ninetales,Arcanine,Centiskorch,NA,NA,NA
+8,Shield,Kabu,fire,n,Ninetales,Arcanine,Centiskorch,NA,NA,NA
+8,Sword,Bea,fighting,n,Hitmontop,Pangoro,Sirfetch'd,Machamp,NA,NA
+8,Shield,Allister,ghost,n,Yamask,Mimikyu,Cursola,Gengar,NA,NA
+8,Sword,Opal,fairy,n,Weezing,Mawile,Togekiss,Alcremie,NA,NA
+8,Shield,Opal,fairy,n,Weezing,Mawile,Togekiss,Alcremie,NA,NA
+8,Sword,Gordie,rock,n,Barbaracle,Shuckle,Stonjourner,Coalossal,NA,NA
+8,Shield,Melony,ice,n,Frosmoth,Darmanitan,Eiscue,Lapras,NA,NA
+8,Sword,Piers,dark,n,Scrafty,Malamar,Skuntank,Obstagoon,NA,NA
+8,Shield,Piers,dark,n,Scrafty,Malamar,Skuntank,Obstagoon,NA,NA
+8,Sword,Raihan,dragon,n,Gigalith,Flygon,Sandaconda,Duraludon,NA,NA
+8,Shield,Raihan,dragon,n,Gigalith,Flygon,Sandaconda,Duraludon,NA,NA
+8,Sword,Marnie,dark,y,Liepard,Toxicroak,Scrafty,Morpeko,Grimmsnarl,NA
+8,Shield,Marnie,dark,y,Liepard,Toxicroak,Scrafty,Morpeko,Grimmsnarl,NA
+8,Sword,Hop (water),various,y,Dubwool,Corviknight,Pincurchin,Snorlax,Inteleon,NA
+8,Shield,Hop (water),various,y,Dubwool,Corviknight,Pincurchin,Snorlax,Inteleon,NA
+8,Sword,Hop (grass),various,y,Dubwool,Corviknight,Pincurchin,Snorlax,Rillaboom,NA
+8,Shield,Hop (grass),various,y,Dubwool,Corviknight,Pincurchin,Snorlax,Rillaboom,NA
+8,Sword,Hop (fire),various,y,Dubwool,Corviknight,Pincurchin,Snorlax,Cinderace,NA
+8,Shield,Hop (fire),various,y,Dubwool,Corviknight,Pincurchin,Snorlax,Cinderace,NA
+8,Sword,Bede,fairy,y,Mawile,Gardevoir,Rapidash,Hatterene,NA,NA
+8,Shield,Bede,fairy,y,Mawile,Gardevoir,Rapidash,Hatterene,NA,NA
+8,Sword,Nessa,water,y,Golisopod,Pelipper,Barraskewda,Seaking,Drednaw,NA
+8,Shield,Nessa,water,y,Golisopod,Pelipper,Barraskewda,Seaking,Drednaw,NA
+8,Sword,Bea,fighting,y,Hawlucha,Grapploct,Sirfetch'd,Falinks,Machamp,NA
+8,Shield,Allister,ghost,y,Dusknoir,Chandelure,Cursola,Polteageist,Gengar,NA
+8,Sword,Raihan,dragon,y,Torkoal,Goodra,Turtonator,Flygon,Duraludon,NA
+8,Shield,Raihan,dragon,y,Torkoal,Goodra,Turtonator,Flygon,Duraludon,NA
+8,Sword,Leon (fire),various,y,Aegislash,Dragapult,Haxorus,Seismitoad,Cinderace,Charizard
+8,Shield,Leon (fire),various,y,Aegislash,Dragapult,Haxorus,Seismitoad,Cinderace,Charizard
+8,Sword,Leon (water),various,y,Aegislash,Dragapult,Haxorus,Mr. Rime,Inteleon,Charizard
+8,Shield,Leon (water),various,y,Aegislash,Dragapult,Haxorus,Mr. Rime,Inteleon,Charizard
+8,Sword,Leon (grass),various,y,Aegislash,Dragapult,Haxorus,Rhyperior,Rillaboom,Charizard
+8,Shield,Leon (grass),various,y,Aegislash,Dragapult,Haxorus,Rhyperior,Rillaboom,Charizard
